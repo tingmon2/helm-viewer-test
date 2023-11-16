@@ -8,7 +8,7 @@ image:
   repository: tingmon/viewer-cicd
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 'change-me'
+  tag: 'test-1.0.0'
 
 imagePullSecrets: []
 nameOverride: ''
